@@ -1,0 +1,6 @@
+framework module CPersonalInfoKit {
+  umbrella header "CPersonalInfoKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

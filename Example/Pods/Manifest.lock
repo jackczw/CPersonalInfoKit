@@ -1,0 +1,28 @@
+PODS:
+  - CPersonalInfoKit (1):
+    - CPersonalPreferenceCategoryKit
+  - CPersonalPreferenceCategoryKit (1):
+    - CTMediator
+  - CTMediator (46)
+
+DEPENDENCIES:
+  - CPersonalInfoKit (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - CTMediator
+  https://github.com/jackczw/ZJSpecs.git:
+    - CPersonalPreferenceCategoryKit
+
+EXTERNAL SOURCES:
+  CPersonalInfoKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CPersonalInfoKit: 1ee1bd7376e085c83d3b55c2c37514f56f3e984d
+  CPersonalPreferenceCategoryKit: e18bd42cebb1c067af1f6cf41b8f2fd737e5e75c
+  CTMediator: f1cf58d509fb3192086c367711f039efd769b907
+
+PODFILE CHECKSUM: e76759fd7d14a83b076d8d19b7f489520484af7b
+
+COCOAPODS: 1.10.0

@@ -1,0 +1,6 @@
+framework module Pods_CPersonalInfoKit_Example {
+  umbrella header "Pods-CPersonalInfoKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

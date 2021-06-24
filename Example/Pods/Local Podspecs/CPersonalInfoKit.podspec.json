@@ -1,0 +1,27 @@
+{
+  "name": "CPersonalInfoKit",
+  "version": "1",
+  "summary": "A short description of CPersonalInfoKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jackczw/CPersonalInfoKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jackczw": "1565201275@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/jackczw/CPersonalInfoKit.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CPersonalInfoKit/Classes/**/*",
+  "dependencies": {
+    "CPersonalPreferenceCategoryKit": [
+
+    ]
+  }
+}
